@@ -1,0 +1,227 @@
+$date
+	Sun Apr 19 17:51:34 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module xilinx_assignment_mealy_test $end
+$var wire 1 ! yout $end
+$var wire 4 " led [0:3] $end
+$var wire 8 # count [0:7] $end
+$var reg 1 $ ain $end
+$var reg 1 % clk $end
+$var reg 1 & reset $end
+$scope module DUT $end
+$var wire 1 $ ain $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var reg 2 ' NS [0:1] $end
+$var reg 2 ( PS [0:1] $end
+$var reg 8 ) count [0:7] $end
+$var reg 4 * led [0:3] $end
+$var reg 1 ! yout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#110
+$dumpvars
+bx *
+b0 )
+b0 (
+b0 '
+0&
+0%
+0$
+b0 #
+bx "
+0!
+$end
+#150
+1%
+#200
+b1 '
+0%
+1$
+#250
+b1 "
+b1 *
+b10 '
+b1 #
+b1 )
+b1 (
+1%
+#300
+b1 '
+0%
+0$
+#350
+1%
+#400
+b10 '
+0%
+1$
+#450
+b10 "
+b10 *
+b11 '
+b10 #
+b10 )
+b10 (
+1%
+#500
+b10 '
+0%
+0$
+#550
+1%
+#600
+b11 '
+0%
+1$
+#650
+b11 "
+b11 *
+b0 '
+1!
+b11 #
+b11 )
+b11 (
+1%
+#700
+0!
+0%
+0$
+#750
+b0 (
+1%
+#800
+b1 '
+0%
+1$
+#850
+b100 "
+b100 *
+b10 '
+b100 #
+b100 )
+b1 (
+1%
+#900
+0%
+#950
+b101 "
+b101 *
+b11 '
+b101 #
+b101 )
+b10 (
+1%
+#1000
+0%
+#1050
+b110 "
+b110 *
+b0 '
+1!
+b110 #
+b110 )
+b11 (
+1%
+#1100
+0!
+0%
+0$
+#1150
+b0 (
+1%
+#1200
+b1 '
+0%
+1$
+#1250
+b111 "
+b111 *
+b10 '
+b111 #
+b111 )
+b1 (
+1%
+#1300
+b1 '
+0%
+0$
+#1350
+1%
+#1400
+b10 '
+0%
+1$
+#1450
+b1000 "
+b1000 *
+b11 '
+b1000 #
+b1000 )
+b10 (
+1%
+#1500
+b10 '
+0%
+0$
+#1550
+1%
+#1600
+b11 '
+0%
+1$
+#1650
+b1001 "
+b1001 *
+b0 '
+1!
+b1001 #
+b1001 )
+b11 (
+1%
+#1700
+0!
+0%
+0$
+#1750
+b0 (
+1%
+#1800
+b1 '
+0%
+1$
+#1850
+b1010 "
+b1010 *
+b10 '
+b1010 #
+b1010 )
+b1 (
+1%
+#1900
+b1 '
+0%
+0$
+#1950
+1%
+#2000
+b10 '
+0%
+1$
+#2050
+b1011 "
+b1011 *
+b11 '
+b1011 #
+b1011 )
+b10 (
+1%
+#2100
+0%
