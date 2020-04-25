@@ -4,4 +4,5 @@ This project is implemented and simulated Iverilog and plotted by GTKwave. Probl
 PDF - https://www.xilinx.com/support/documentation/university/ISE-Teaching/HDL-Design/14x/Nexys3/Verilog/docs-pdf/lab10.pdf
 
 ![](https://github.com/souvicksaha95/Xilinx-Mealy-Machine-Assignment/blob/master/simulation.JPG)
+The following picture is the output of testbench with all the changing variables. The previous waveform is a pictorial representation of this values.
 ![](https://github.com/souvicksaha95/Xilinx-Mealy-Machine-Assignment/blob/master/bit_changes.JPG)
